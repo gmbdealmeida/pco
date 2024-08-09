@@ -1,0 +1,10 @@
+Objeto 1
+420
+Objeto 2
+500
+Objeto 3
+450
+Objeto 4
+370
+Objeto 5
+440

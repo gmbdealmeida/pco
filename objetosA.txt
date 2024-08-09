@@ -1,0 +1,8 @@
+Objeto 1
+450
+Objeto 2
+400
+Objeto 3
+500
+Objeto 4
+480
